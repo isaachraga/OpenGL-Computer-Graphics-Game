@@ -90,10 +90,6 @@ It was built to demonstrate a clear understanding of:
 - stb_image
 
 
-## License
-
-MIT License
-
 ## Contact
 - Isaac Hraga
 - GitHub: https://github.com/isaachraga
