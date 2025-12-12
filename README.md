@@ -120,7 +120,6 @@ GLAD / GLEW
 MIT License
 
 ## Contact
-
-Isaac Hraga
-GitHub: https://github.com/isaachraga
-LinkedIn: www.linkedin.com/in/isaac-hraga-5b7535b2
+-Isaac Hraga
+-GitHub: https://github.com/isaachraga
+-LinkedIn: www.linkedin.com/in/isaac-hraga-5b7535b2
