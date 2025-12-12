@@ -39,7 +39,7 @@ It was built to demonstrate a clear understanding of:
 ### **Prerequisites**
 - C++17 or later  
 - GLFW  
-- GLAD or GLEW  
+- GLEW  
 - Visual Studio
 
 ### **Setup**
