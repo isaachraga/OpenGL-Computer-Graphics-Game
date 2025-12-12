@@ -1,2 +1,106 @@
 # OpenGL Computer Graphics Game
-Robot-shooting game made for a computer graphics class
+Robot-shooting game made for a computer graphics class to demonstrate real-time lighting, texturing, and explore graphic pipeline implementation
+
+## Overview
+This project is a custom OpenGL rendering engine written in modern C++ (GLFW + GLEW).  
+It was built to demonstrate a clear understanding of:
+
+- The graphics rendering pipeline  
+- Lighting models  
+- Texture mapping and sampling  
+- Coordinate transformations and matrices  
+- Rendering architecture and engine structure  
+
+---
+
+## Demo
+- **Demo Video:** _Add a link_  
+- **GIFs / Screenshots:**  
+  - ![Dynamic Light](Demo/Demo1.gif)  
+  - ![Flat/Gouraud Shading](Demo/Demo2.gif)
+  - ![Arcball Camera](Demo/Demo3.gif)
+
+---
+
+## Skills Demonstrated
+- C++ design 
+- GPU pipeline understanding  
+- Texture sampling, filtering, aliasing concepts  
+- Normal/tangent-space lighting  
+- Coordinate transformations, view volumes, clipping  
+- Debugging rendering bugs (coordinate systems, depth issues, texture alignment)
+- Practical experience with OpenGL API
+
+---
+
+## Architecture
+
+## How to Run
+
+### **Prerequisites**
+- C++17 or later  
+- GLFW  
+- GLAD or GLEW  
+- Visual Studio
+
+### **Setup**
+- Open the visual studio sln
+- Build solution
+
+## Controls 
+
+- w: Wireframe mode
+- s: solid mode
+- q: texture mode
+- a: display axis
+- c: display colliders
+- m: move mode
+- o: Toggle OBJ rendering
+- l: Toggle Point/Directional light
+- ESC: Pause Program
+- F1: Toggle full screen
+- F2: Swap FPV with ESV
+- F3: Toggle Game Sound
+- F4: Toggle Flat/Gouraud shading
+- Up: Move Camera forward
+- Down: Move the camera backwards
+- Left: Rotate the camera left
+- Right: Rotate the camera right
+- Left click: (ESV Mode) Control Arcball angles
+- Scroll Wheel: (ESV Mode) Control Arcball radius/zoom
+
+## Game Rules
+- Kill = +10 Score
+- Miss = -10 Score
+
+## Important Code Locations
+
+main.cpp — scene setup + render loop
+
+
+
+## Technologies Used
+
+- C++17
+
+- OpenGL 3.3+
+
+- GLFW
+
+- GLEW
+
+- irrklang
+
+- assimp
+
+- stb_image
+
+
+## License
+
+MIT License
+
+## Contact
+- Isaac Hraga
+- GitHub: https://github.com/isaachraga
+- LinkedIn: www.linkedin.com/in/isaac-hraga-5b7535b2
