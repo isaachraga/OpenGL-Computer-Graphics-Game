@@ -13,8 +13,7 @@ It was built to demonstrate a clear understanding of:
 
 ---
 
-## Demo
-- **Demo Video:** _Add a link_  
+## Demo 
 - **GIFs / Screenshots:**  
   - ![Dynamic Light](Demo/Demo1.gif)  
   - ![Flat/Gouraud Shading](Demo/Demo2.gif)
