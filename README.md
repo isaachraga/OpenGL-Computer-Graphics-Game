@@ -106,13 +106,13 @@ main.cpp — scene setup + render loop
 
 ## Technologies Used
 
-C++17
+- C++17
 
-OpenGL 3.3+
+- OpenGL 3.3+
 
-GLFW
+- GLFW
 
-GLAD / GLEW
+- GLEW
 
 
 ## License
@@ -120,6 +120,6 @@ GLAD / GLEW
 MIT License
 
 ## Contact
--Isaac Hraga
--GitHub: https://github.com/isaachraga
--LinkedIn: www.linkedin.com/in/isaac-hraga-5b7535b2
+- Isaac Hraga
+- GitHub: https://github.com/isaachraga
+- LinkedIn: www.linkedin.com/in/isaac-hraga-5b7535b2
