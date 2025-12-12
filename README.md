@@ -13,8 +13,7 @@ It was built to demonstrate a clear understanding of:
 
 ---
 
-## Demo
-- **Demo Video:** _Add a link_  
+## Demo 
 - **GIFs / Screenshots:**  
   - ![Dynamic Light](Demo/Demo1.gif)  
   - ![Flat/Gouraud Shading](Demo/Demo2.gif)
@@ -25,8 +24,8 @@ It was built to demonstrate a clear understanding of:
 ## Skills Demonstrated
 - C++ design 
 - GPU pipeline understanding  
-- Texture sampling, filtering, aliasing concepts  
-- Normal/tangent-space lighting  
+- Texture mapping
+- Object loading
 - Coordinate transformations, view volumes, clipping  
 - Debugging rendering bugs (coordinate systems, depth issues, texture alignment)
 - Practical experience with OpenGL API
@@ -40,7 +39,7 @@ It was built to demonstrate a clear understanding of:
 ### **Prerequisites**
 - C++17 or later  
 - GLFW  
-- GLAD or GLEW  
+- GLEW  
 - Visual Studio
 
 ### **Setup**
@@ -72,11 +71,6 @@ It was built to demonstrate a clear understanding of:
 ## Game Rules
 - Kill = +10 Score
 - Miss = -10 Score
-
-## Important Code Locations
-
-main.cpp — scene setup + render loop
-
 
 
 ## Technologies Used
