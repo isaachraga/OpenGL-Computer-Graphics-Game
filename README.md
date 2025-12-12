@@ -15,9 +15,9 @@ It was built to demonstrate a clear understanding of:
 
 ## Demo 
 - **GIFs / Screenshots:**  
-  - ![Dynamic Light](Demo/Demo1.gif)  
-  - ![Flat/Gouraud Shading](Demo/Demo2.gif)
-  - ![Arcball Camera](Demo/Demo3.gif)
+  - ![Dynamic Light](OpenGL-Gomputer-Graphics-Game/Demo/Demo1.gif)  
+  - ![Flat/Gouraud Shading](OpenGL-Gomputer-Graphics-Game/Demo/Demo2.gif)
+  - ![Arcball Camera](OpenGL-Gomputer-Graphics-Game/Demo/Demo3.gif)
 
 ---
 
