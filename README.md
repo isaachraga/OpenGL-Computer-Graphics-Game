@@ -24,8 +24,8 @@ It was built to demonstrate a clear understanding of:
 ## Skills Demonstrated
 - C++ design 
 - GPU pipeline understanding  
-- Texture sampling, filtering, aliasing concepts  
-- Normal/tangent-space lighting  
+- Texture mapping
+- Object loading
 - Coordinate transformations, view volumes, clipping  
 - Debugging rendering bugs (coordinate systems, depth issues, texture alignment)
 - Practical experience with OpenGL API
@@ -71,11 +71,6 @@ It was built to demonstrate a clear understanding of:
 ## Game Rules
 - Kill = +10 Score
 - Miss = -10 Score
-
-## Important Code Locations
-
-main.cpp — scene setup + render loop
-
 
 
 ## Technologies Used
