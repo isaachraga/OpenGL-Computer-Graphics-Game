@@ -77,7 +77,7 @@ It was built to demonstrate a clear understanding of:
 
 - C++17
 
-- OpenGL 3.3+
+- Legacy OpenGL (immediate mode)
 
 - GLFW
 
@@ -91,6 +91,6 @@ It was built to demonstrate a clear understanding of:
 
 
 ## Contact
-- Isaac Hraga
-- GitHub: https://github.com/isaachraga
-- LinkedIn: www.linkedin.com/in/isaac-hraga-5b7535b2
+**Isaac Hraga**
+GitHub: https://github.com/isaachraga
+LinkedIn: www.linkedin.com/in/isaac-hraga-5b7535b2
