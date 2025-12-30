@@ -32,8 +32,6 @@ It was built to demonstrate a clear understanding of:
 
 ---
 
-## Architecture
-
 ## How to Run
 
 ### **Prerequisites**
