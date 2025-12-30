@@ -90,5 +90,5 @@ It was built to demonstrate a clear understanding of:
 
 ## Contact
 **Isaac Hraga**
-GitHub: https://github.com/isaachraga
-LinkedIn: www.linkedin.com/in/isaac-hraga-5b7535b2
+- GitHub: https://github.com/isaachraga
+- LinkedIn: www.linkedin.com/in/isaac-hraga-5b7535b2
